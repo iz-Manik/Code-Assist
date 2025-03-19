@@ -1,2 +1,9 @@
-streamlit==1.18.1
+streamlit==1.39.0
 google-generativeai
+altair==4.2.2      # or compatible version
+entrypoints
+jinja2
+jsonschema
+numpy
+pandas
+toolz
